@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/assets/avatar.png" alt="Your Name" width="150px">
+  <img src="https://avatars.githubusercontent.com/u/103391379" alt="Your Name" width="150px">
 
 # Bahaj Abderrazak
 
@@ -18,12 +18,14 @@ Hi there! I'm Bahaj Abderrazak, a passionate Full Stack Developer based in Moroc
 
 ## Skills
 
-- Laravel, Vue.js, React.js
-- HTML, CSS, JavaScript, jQuery
-- ASP.NET, C#, C, XML
-- Alexa Skills Development
-- Django, Python, Symfony, Next.js
-- Android Studio, Xamarin
+## Skills
+
+- <img src="icon_link_here" width="20" height="20" /> Laravel, Vue.js, React.js
+- <img src="icon_link_here" width="20" height="20" /> HTML, CSS, JavaScript, jQuery
+- <img src="icon_link_here" width="20" height="20" /> ASP.NET, C#, C, XML
+- <img src="icon_link_here" width="20" height="20" /> Alexa Skills Development
+- <img src="icon_link_here" width="20" height="20" /> Django, Python, Symfony, Next.js
+- <img src="icon_link_here" width="20" height="20" /> Android Studio, Xamarin
 
 ## Languages
 
