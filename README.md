@@ -3,8 +3,8 @@
 
 # Hi there! 👋 I'm Bahaj Abderrazak (Full Stack Developer)
 
-📍 Morocco, Tinghir
-👨‍💻 Full Stack Developer
+## 📍 Morocco, Tinghir
+## 👨‍💻 Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/abderrazak-bahaj/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/#/)
