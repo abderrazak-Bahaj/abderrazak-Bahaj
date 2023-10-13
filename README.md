@@ -6,9 +6,9 @@
 📍 Morocco, Tinghir
 👨‍💻 Full Stack Developer
 
-# [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/abderrazak-bahaj/)
-# [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/#/)
-# [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=flat-square&logo=portfolio&logoColor=white)](https://github.com/abderrazak-bahaj.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/abderrazak-bahaj/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/#/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=flat-square&logo=portfolio&logoColor=white)](https://github.com/abderrazak-bahaj.github.io)
 
 Driven by a relentless passion for innovation and a deep commitment to excellence, I am a dedicated professional in the realm of Full stack Development. With a strong foundation in technical expertise and a strategic mindset, I thrive in dynamic environments where creativity meets complexity.
 
