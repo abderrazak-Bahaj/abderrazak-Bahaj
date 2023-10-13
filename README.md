@@ -19,7 +19,7 @@ Driven by a relentless passion for innovation and a deep commitment to excellenc
 I am a solutions architect and problem solver, combining technical prowess with an empathetic approach to create transformative solutions. My work is defined by meticulous attention to detail and a commitment to perfection. Integrity and transparency are at the core of my values, ensuring open communication and trust in every collaboration.
 
 
-## Skills
+## Technologies
 
 - 💻 Laravel, Vue.js, React.js
 - 🌐 HTML, CSS, JavaScript, jQuery
