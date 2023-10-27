@@ -22,11 +22,11 @@ I am a solutions architect and problem solver, combining technical prowess with 
 ## Technologies
 
 - 💻 Laravel, Vue.js, React.js
-- 🌐 HTML, CSS, JavaScript, jQuery
+- 🌐 HTML, CSS, JavaScript, jQuery,Bootstrap,Tailwind,Antd,Less,SCSS,Typescript....
 - 🌟 ASP.NET, C#, C, XML
 - 🗣️ Alexa Skills Development
-- 🐍 Django, Python, Symfony, Next.js
-- 📱 kotlin, Xamarin,react native
+- 🐍 Django, Laravel, Symfony, Next.js
+- 📱 kotlin, Xamarin,React Native
 
 ## Languages
 
