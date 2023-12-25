@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/103391379" alt="Your Name" width="150px">
 
-# Hi there! 👋 I'm Bahaj Abderrazak (Full Stack Developer)
+# Hi there! 👋 I'm Bahaj Abderrazak (Full Stack Developer 🖱)
 
 ## 📍 Morocco, Tinghir
 ## 👨‍💻 Full Stack Developer
@@ -14,21 +14,20 @@ Driven by a relentless passion for innovation and a deep commitment to excellenc
 
 </div>
 
-## 🚀 About Me
+## 🚀 About Me ⤵
 
 I am a solutions architect and problem solver, combining technical prowess with an empathetic approach to create transformative solutions. My work is defined by meticulous attention to detail and a commitment to perfection. Integrity and transparency are at the core of my values, ensuring open communication and trust in every collaboration.
 
 
-## Technologies
+## </> Technologies
 
-- 💻 Laravel, Vue.js, React.js
-- 🌐 HTML, CSS, JavaScript, jQuery,Bootstrap,Tailwind,Antd,Less,SCSS,Typescript....
-- 🌟 ASP.NET, C#, C, XML
+- 🌟 Vue.js, React.js, next.js, nuxt.js HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind, Antd, Less, SCSS, Typescript
+- 💻 C#, C, XML
 - 🗣️ Alexa Skills Development
-- 🐍 Django, Laravel, Symfony, Next.js
-- 📱 kotlin, Xamarin,React Native
+- 🌐  Django, Laravel, Symfony,ASP.NET
+- 📱 kotlin, Xamarin, React Native
 
-## Languages
+## 💬 Languages ⤵
 
 - English
 - Arabic
@@ -36,11 +35,11 @@ I am a solutions architect and problem solver, combining technical prowess with 
 - Tamazirt
 
   
-## 💡 What I Do
+## 🏹 What I Do ⤵
 
 I specialize in crafting innovative, user-centric solutions that leave a lasting impact. Whether it's developing cutting-edge applications, optimizing complex databases, or leading transformative projects, I approach every task with creativity and precision.
 
-## 🌟 Let's Collaborate!
+## 🤝 Let's Collaborate! ⤵
 
 I'm always excited to explore new opportunities and collaborate with fellow enthusiasts. If you share my passion for excellence and creativity, let's connect and explore how we can make a difference together. Feel free to reach out—I'm here to innovate, create, and inspire!
 
