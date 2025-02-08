@@ -1,48 +1,35 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/103391379" alt="Your Name" width="150px">
+# Hi there, I'm Abderrazak Bahaj! 👋
 
-# Hi there! 👋 I'm Bahaj Abderrazak (Full Stack Developer 🖱)
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in open-source projects and innovative technologies. Here's a little bit about me:
 
-## 📍 Morocco, Tinghir
-## 👨‍💻 Full Stack Developer
+## 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/abderrazak-bahaj/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/#/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=flat-square&logo=portfolio&logoColor=white)](https://github.com/abderrazak-bahaj.github.io)
+- 🔭 I’m currently working on various exciting projects.
+- 🌱 I’m constantly learning and exploring new technologies.
+- 👯 I’m looking to collaborate on open-source projects.
+- 🤔 I’m always open to discussing new ideas and challenges.
+- 💬 Ask me about anything related to web development, cloud computing, and AI.
+- 📫 How to reach me: [bahaj.abderrazak@gmail.com](mailto:bahaj.abderrazak@gmail.com)
+- ⚡ Fun fact: I love exploring new cultures and cuisines.
 
-Driven by a relentless passion for innovation and a deep commitment to excellence, I am a dedicated professional in the realm of Full stack Development. With a strong foundation in technical expertise and a strategic mindset, I thrive in dynamic environments where creativity meets complexity.
+## 🛠️ Tech Stack
 
-</div>
+- **Languages:** JavaScript, Python, Java, C++
+- **Frameworks:** React, Angular, Node.js, Django, Spring Boot,Next,Vue
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools:** Git, Docker, Kubernetes- 
+- **Cloud:** AWS
 
-## 🚀 About Me ⤵
+## 📈 GitHub Stats
 
-I am a solutions architect and problem solver, combining technical prowess with an empathetic approach to create transformative solutions. My work is defined by meticulous attention to detail and a commitment to perfection. Integrity and transparency are at the core of my values, ensuring open communication and trust in every collaboration.
+![Abderrazak's GitHub stats](https://github-readme-stats.vercel.app/api?username=abderrazak-Bahaj&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/abderrazak-bahaj)
+- [Personal Website](https://bahaj.dev)
 
 
-## </> Technologies ⤵
+---
 
-- 🌟 Vue.js, React.js, next.js, nuxt.js HTML, CSS, JavaScript, jQuery, Bootstrap, Tailwind, Antd, Less, SCSS, Typescript
-- 💻 C#, C, XML
-- 🗣️ Alexa Skills Development
-- 🌐  Django, Laravel, Symfony,ASP.NET
-- 📱 kotlin, Xamarin, React Native
-
-## 💬 Languages ⤵
-
-- English
-- Arabic
-- French
-- Tamazirt
-
-  
-## 🏹 What I Do ⤵
-
-I specialize in crafting innovative, user-centric solutions that leave a lasting impact. Whether it's developing cutting-edge applications, optimizing complex databases, or leading transformative projects, I approach every task with creativity and precision.
-
-## 🤝 Let's Collaborate! ⤵
-
-I'm always excited to explore new opportunities and collaborate with fellow enthusiasts. If you share my passion for excellence and creativity, let's connect and explore how we can make a difference together. Feel free to reach out—I'm here to innovate, create, and inspire!
-
-<div align="center">
-  <a href="mailto:bahaj.abderrazak@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</div>
+⭐️ From [Abderrazak Bahaj](https://github.com/abderrazak-Bahaj)
